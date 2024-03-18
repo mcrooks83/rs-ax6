@@ -1,0 +1,8 @@
+/Debug
+/Release
+/*.user
+/*.ilk
+/.vs
+/bindings/java/c/openmovement
+/bindings/java/jni
+.DS_Store

@@ -1,0 +1,8 @@
+/Debug
+/Release
+/*.user
+/test.csv
+/*.md
+/omapi-examples.exe
+/omapi-examples
+/.vs
